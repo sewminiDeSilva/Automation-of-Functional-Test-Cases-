@@ -1,0 +1,21 @@
+{
+  "name": "wiley",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.49.1",
+    "@types/node": "^22.10.1"
+  },
+  "dependencies": {
+    "playwright": "^1.49.1",
+    "playwright-extra": "^4.3.6",
+    "playwright-extra-plugin-stealth": "^0.0.1",
+    "playwright-stealth": "^0.0.1",
+    "wiley": "file:"
+  }
+}
